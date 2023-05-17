@@ -6,6 +6,8 @@ To run the application:
 2. Run 'npm install' in terminal
 3. Run 'npm run dev' in terminal
 
+Application should be running in 'http://localhost:3000/daily-planner'.
+
 
 Todo :
 
