@@ -1,0 +1,29 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.formSection {
+    padding: 50px;
+    background: aliceblue;
+}
+
+.heading {
+    margin-bottom: 20px;
+}
+
+.loginForm {
+    display: flex;
+    flex-direction: column;
+}
+
+.loginForm input {
+    margin-bottom: 10px;
+}
+
+.loginBtn {
+    padding: 10px;
+    cursor: pointer;
+}
