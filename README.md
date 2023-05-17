@@ -1,5 +1,12 @@
 # Daily-Planner
 
+To run the application:
+
+1. Go to daily-planner-app
+2. Run 'npm install' in terminal
+3. Run 'npm run dev' in terminal
+
+
 Todo :
 
 1. Add front login page which leads into planner of different users
